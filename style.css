@@ -1,0 +1,15 @@
+
+*{
+
+    background-color:dimgrey;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    
+    }
+    
+    .img{
+    border-radius: 50%;
+    border:solid black 20%;
+    border-image-outset: 10px;
+    }
+    
